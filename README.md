@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Freelance Web Developer (MERN Stack) | Building Scalable and Beautiful Web Apps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishakha-singhal-18983b1bb/" target="_blank">
+  <a href=https://www.linkedin.com/in/ambrish-yadav-049b9a1b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ambrishyadav2003@gmail.com" target="_blank">
@@ -70,8 +70,8 @@ Built modern, responsive, and animated websites for photographers and digital ag
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishakha-singhal-18983b1bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@vishakhasinghal-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/ambrish-yadav-049b9a1b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@ambrishyadav-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:ambrishyadav2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ambrishyadav2003-red?style=flat&logo=gmail&logoColor=white" />
