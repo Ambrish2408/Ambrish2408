@@ -5,11 +5,12 @@ A Passionate  Web Developer (MERN Stack) | Building Scalable and Beautiful Web A
 
 
 
-
-- 👋 Hi, I’m @Ambrish2408
-- 👀 I’m interested in Development and programmimg
-- 🌱 I’m currently learning programming and development
-- 💞️ I’m looking to collaborate on web development and problem solving projects
+👩‍💻 About Me
+💼 I’m a Freelance Full Stack Web Developer (React, Node.js, MongoDB)
+🎯 Focused on building clean, user-centric, scalable web applications
+🧠 Learning advanced UI/UX, microservices, and performance optimization
+🌍 Delivered projects for clients in E-commerce, EdTech, SAAS, HealthTech and more
+💬 Ask me about web development, React, Redux, REST APIs, MongoDB
 - 📫 How to reach me ambrishyadav2003@gmail.com
   
  
