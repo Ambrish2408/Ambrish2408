@@ -1,4 +1,4 @@
-<h1><b>Hi 👋, I'm Ambrish Yadav</b>h1><br>
+<h1><b>Hi 👋, I'm Ambrish Yadav</b></h1><br>
 <h2>A Passionate  Web Developer (MERN Stack) | Building Scalable and Beautiful Web Apps</b></h2>
 
 👩‍💻 About Me<br>
