@@ -1,10 +1,6 @@
 <h1><b>Hi 👋, I'm Ambrish Yadav<br>
 A Passionate  Web Developer (MERN Stack) | Building Scalable and Beautiful Web Apps</b></h1>
 
-
-
-
-
 👩‍💻 About Me
 💼 I’m a Freelance Full Stack Web Developer (React, Node.js, MongoDB)
 🎯 Focused on building clean, user-centric, scalable web applications
