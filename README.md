@@ -1,3 +1,11 @@
+<h1><b>Hi 👋, I'm Ambrish Yadav</b>
+<b>A Passionate  Web Developer (MERN Stack) | Building Scalable and Beautiful Web Apps</b></h1>
+
+
+
+
+
+
 - 👋 Hi, I’m @Ambrish2408
 - 👀 I’m interested in Development and programmimg
 - 🌱 I’m currently learning programming and development
