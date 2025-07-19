@@ -1,5 +1,5 @@
-<h1><b>Hi 👋, I'm Ambrish Yadav<br>
-A Passionate  Web Developer (MERN Stack) | Building Scalable and Beautiful Web Apps</b></h1>
+<h1><b>Hi 👋, I'm Ambrish Yadav</b>h1><br>
+<h2>A Passionate  Web Developer (MERN Stack) | Building Scalable and Beautiful Web Apps</b></h2>
 
 👩‍💻 About Me<br>
 💼 I’m a Freelance Full Stack Web Developer (React, Node.js, MongoDB)<br>
