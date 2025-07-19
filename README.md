@@ -7,7 +7,22 @@
 🧠 Learning advanced UI/UX, microservices, and performance optimization<br>
 🌍 Delivered projects for clients in E-commerce, EdTech, SAAS, HealthTech and more<br>
 💬 Ask me about web development, React, Redux, REST APIs, MongoDB<br>
-- 📫 How to reach me ambrishyadav2003@gmail.com
+- 📫 How to reach me ambrishyadav2003@gmail.com<br>
+
+🌟 Projects I've Built for Clients<br>
+🛍️ E-commerce Admin Panel<br>
+A complete dashboard for managing products, users, and orders for an online store.<br>
+Tech: ReactJS, Node.js, Express, MongoDB, Bootstrap<br>
+
+🧾 Invoice Management System<br>
+A tool for generating, downloading, and managing invoices with CRUD capabilities.<br>
+Tech: MERN Stack, PDFKit, JWT Auth, Email Integration<br>
+
+🎨 Portfolio Sites for Creatives & Agencies<br>
+Built modern, responsive, and animated websites for photographers and digital agencies.<br>
+Tech: ReactJS, Tailwind CSS, Framer Motion<br>
+
+📌 More client project showcases coming soon. DM me if you want to collaborate<br>
   
  
 <!---
