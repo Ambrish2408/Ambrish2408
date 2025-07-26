@@ -73,9 +73,8 @@ Built modern, responsive, and animated websites for photographers and digital ag
   <a href="https://www.linkedin.com/in/ambrish-yadav-049b9a1b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-@ambrishyadav-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:ambrishyadav2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ambrishyadav2003-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-ambrishyadav2003-red?style=flat&logo=gmail&logoColor=white)](mailto:ambrishyadav2003@gmail.com)
+
 </p>
  
 <!---
