@@ -19,7 +19,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400"/> 
 
 
----
+
 
 ### 👩‍💻 About Me
 
@@ -30,7 +30,7 @@
 - 💬 Ask me about **web development, React, Redux, REST APIs, MongoDB**
 - 📫 Reach me at: **ambrishyadav2003@gmail.com**
 
----
+
 
 ### 🌟 Projects I've Built for Clients
 
