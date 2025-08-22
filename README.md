@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif"> -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400"/> 
+
 
 ---
 
